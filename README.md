@@ -93,7 +93,7 @@
   - edX: “Cybersecurity: Cryptography”
 - Практические платформы:
   - Hack The Box, TryHackMe.
-  - [Собранные проверочные задания]
+  - [Собранные проверочные задания](2._Practika_intermediate_level_2.md)
 
 ---
 
