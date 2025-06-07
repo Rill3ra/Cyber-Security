@@ -109,7 +109,7 @@
    - Методологии пентестинга и инструменты (Metasploit, Burp Suite).
    - Написание отчетов о пентесте.
 
-3. Digital Forensics and Incident Response (DFIR)
+3. [Digital Forensics and Incident Response (DFIR)](XIV._Digital_Forensics_and_Incident_Response_(DFIR)_3.md)
    - Расследование инцидентов и восстановление после инцидентов.
 
 4. SCADA/ICS Security
