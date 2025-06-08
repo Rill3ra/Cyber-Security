@@ -112,7 +112,7 @@
 3. [Digital Forensics and Incident Response (DFIR)](XIV._Digital_Forensics_and_Incident_Response_(DFIR)_3.md)
    - Расследование инцидентов и восстановление после инцидентов.
 
-4. SCADA/ICS Security
+4. [SCADA/ICS Security](XV._SCADA_ICS_Security_4.md)
    - Безопасность промышленных систем управления и анализ уязвимостей.
 
 5. Разработка безопасного программного обеспечения (Secure SDLC)
